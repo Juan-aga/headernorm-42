@@ -22,7 +22,7 @@ Note: Replace "/path/to/headernorm-42.sh" with the actual path to the "headernor
 Bash shell environment
 Norminette (ensure it is installed and available in the system's PATH)
 
-## Disclaimer:
+## Disclaimer:
 Please note that "headernorm-42" is a personal project and not an official tool. It is intended for personal use and may not cover all possible scenarios. Use it at your own risk.
 
 Feel free to customize and modify the script according to your needs.
